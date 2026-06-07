@@ -14,9 +14,9 @@ I am currently learning HTML, CSS, and JavaScript and building real-world projec
 
 
 ## 📂 Projects
-- Portfolio Website
-- Calculator App
-- To-Do App
+- Portfolio Website: https://your-username.github.io/my-portfolio/
+- Calculator App: coming soon
+- To-Do Ap
 
 
 ## 🎯 Goal
