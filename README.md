@@ -14,7 +14,7 @@ I am currently learning HTML, CSS, and JavaScript and building real-world projec
 
 
 ## 📂 Projects
-- Portfolio Website: https://your-username.github.io/my-portfolio/
+- Portfolio Website: https://nasar-dev.github.io/my-portfolio/
 - Calculator App: coming soon
 - To-Do Ap
 
