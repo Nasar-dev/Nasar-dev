@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 Hi, I'm Nasar Shahzad
 
-<!--
-**Nasar-dev/Nasar-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Front-End Developer
 
-Here are some ideas to get you started:
+I am a passionate Front-End Developer from Pakistan.  
+I am currently learning HTML, CSS, and JavaScript and building real-world projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Skills
+- HTML
+- CSS
+- JavaScript
+
+
+## 📂 Projects
+- Portfolio Website
+- Calculator App
+- To-Do App
+
+
+## 🎯 Goal
+To become a professional Full Stack Web Developer.
+
+
+## 📫 Contact
+Email: nasarshahzad45@gmail.com
+GitHub: https://github.com/Nasar-dev
+
