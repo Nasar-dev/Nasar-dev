@@ -11,6 +11,8 @@ I am currently learning HTML, CSS, and JavaScript and building real-world projec
 - HTML
 - CSS
 - JavaScript
+- Bootstrap
+- jQuery
 
 
 ## 📂 Projects
