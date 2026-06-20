@@ -19,6 +19,7 @@ I am currently learning HTML, CSS, and JavaScript and building real-world projec
 - Portfolio Website: https://nasar-dev.github.io/my-portfolio/
 - Calculator App: https://nasar-dev.github.io/calculator-js/
 - To-Do App: https://nasar-dev.github.io/todo-app-with-localstorage/
+- Landing Page: https://nasar-dev.github.io/landing-page/
 
 
 ## 🎯 Goal
