@@ -12,7 +12,6 @@ I am currently learning HTML, CSS, and JavaScript and building real-world projec
 - CSS
 - JavaScript
 - Bootstrap
-- jQuery
 
 
 ## 📂 Projects
@@ -23,7 +22,7 @@ I am currently learning HTML, CSS, and JavaScript and building real-world projec
 
 
 ## 🎯 Goal
-To become a professional Full Stack Web Developer.
+To secure a Front-End Developer Internship and gain hands-on experience in building responsive and user-friendly websites
 
 
 ## 📫 Contact
