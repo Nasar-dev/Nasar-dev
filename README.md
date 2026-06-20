@@ -27,7 +27,6 @@ To become a professional Full Stack Web Developer.
 
 
 ## 📫 Contact
-Phone No: 03089111129
 Email: nasarshahzad45@gmail.com
 
 
